@@ -44,7 +44,7 @@
             <h4 class="title wow animate__animated animate__fadeInUp">For Donation Kindly Click here</h4>
           </div>
 		<div class="btn-wrapper" style="text-align: center;">
-			<a href="#" class="boxed-btn btn-sanatory volunteer"><i class="fas fa-arrow-right"></i>Donation</a>
+			<a href="https://pancakeswap.finance/add/BNB/0x6798cb97ADd4C2dcE309e24A8fecA66D55548aaa" target="_blank" class="boxed-btn btn-sanatory volunteer"><i class="fas fa-arrow-right"></i>Donation</a>
 		</div>
               
         </div>
